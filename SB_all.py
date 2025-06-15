@@ -27,8 +27,8 @@ driver.get(url)
 time.sleep(random.uniform(3,10))
 
 #アカウント
-user_name = "CB64315"
-passwword = "anemone!1113"
+user_name = ""
+passwword = ""
 
 #ID入力
 name_element = WebDriverWait(driver,10).until(
